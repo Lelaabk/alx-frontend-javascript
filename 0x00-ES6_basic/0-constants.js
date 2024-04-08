@@ -18,4 +18,3 @@ function taskFirst() {
     getLast,
     taskNext
   };
-  
