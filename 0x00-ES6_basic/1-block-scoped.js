@@ -10,4 +10,4 @@ function taskBlock(trueOrFalse) {
     return [task, task2];
   }
 
-module.exports = taskBlock;
+module.exports = {taskBlock};
