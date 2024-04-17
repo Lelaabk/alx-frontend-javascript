@@ -1,7 +1,7 @@
 // interface.ts
 
 //Define RowId type
-export type RowId = number;
+export type RowID = number;
 
 // Define interface for RowElement
 export interface RowElement {
